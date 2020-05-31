@@ -7,7 +7,7 @@ h1 {
   text-align: center;
 }
 body{
-  background-image: url("/home/ankit/Downloads/restro.jpeg");
+  background-image: url("restro.jpeg");
 }
 p{
   padding:10px;
