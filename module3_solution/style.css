@@ -1,0 +1,64 @@
+ /*for general body properties.*/
+body{                   
+	font-size:16px;
+	color: #fff;
+	background-color: #D15336;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/*for container.*/
+.container-fluid{
+	background-color: grey;
+}
+.menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: black;
+	display: block;
+}
+.menu-item a:hover{
+	background:#D15336;
+}
+/*for the three small bar in the button menu.
+*/
+.icon-bar{
+	background-color:white;
+
+}
+.navbar-toggle{
+	border: 2px solid #D15336;
+	margin-right: 25px;
+}
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  color: white;
+ }
+.navbar-brand{
+  font-size: 35px;
+  color: white;
+  padding-left: 25px;
+}
+.page-header{
+	text-align: center;
+	font-size: 5em;
+	color: yellow;
+}
+
+h2{
+	text-align: center;
+	font-size: 2em;
+	text-transform: uppercase;:
+	font-weight:bold; 
+}
+div p{
+	padding: 5px;
+	height: 500px;
+}
+.row div{
+	background-color: grey;
+	padding: 0;
+	margin-bottom: 5px;
+}
